@@ -16,12 +16,12 @@ function initMap() {
     map: map,
   });
   
-    const marker = new google.maps.Marker({
+  const marker = new google.maps.Marker({
     position: krakstad,
     map: map,
   });
   
-    const marker = new google.maps.Marker({
+  const marker = new google.maps.Marker({
     position: zurich,
     map: map,
   });
